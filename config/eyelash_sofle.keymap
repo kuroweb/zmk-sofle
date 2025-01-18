@@ -82,7 +82,7 @@
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_DOWN   &kp F11  &kp F12   &kp UP    &trans     &kp MINUS         &kp EQUAL
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_LEFT   &trans   &kp LEFT  &kp DOWN  &kp RIGHT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_RIGHT  &trans   &trans    &trans    &trans     &trans            &trans
-&kp C_MUTE  &trans  &trans  &trans  &trans  &trans    &mkp LCLK        &trans   &trans    &trans    &trans     &trans
+&kp C_MUTE  &trans  &trans  &trans  &trans  &trans    &mkp RCLK        &trans   &trans    &trans    &trans     &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
